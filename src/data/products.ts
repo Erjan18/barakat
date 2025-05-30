@@ -668,21 +668,21 @@ export const banners = [
     id: "1",
     title: "Новая коллекция абай",
     subtitle: "Скидки до 20% на женскую одежду",
-    image: "https://images.pexels.com/photos/5824877/pexels-photo-5824877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://mariam-col.com/cdn/shop/articles/discover-the-epitome-of-luxury-our-limited-edition-super-high-end-couture-abaya-763833.jpg?v=1728703500",
     link: "/catalog/clothing"
   },
   {
     id: "2",
     title: "Коран - священная книга",
     subtitle: "Широкий выбор изданий для всей семьи",
-    image: "https://images.pexels.com/photos/5899425/pexels-photo-5899425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://medinaschool.org/files/images/2022/05/26878e3f335f5f5c87febec9a1e84f63.jpg",
     link: "/catalog/books"
   },
   {
     id: "3",
     title: "Ароматы Востока",
     subtitle: "Натуральные масляные духи из Саудовской Аравии",
-    image: "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://www.duhivostoka.ru/sites/default/files/musulmanskie-maslyanye-duhi.jpg",
     link: "/catalog/fragrances"
   }
 ];
